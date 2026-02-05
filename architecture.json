@@ -1,0 +1,112 @@
+{
+  "book_id": "golden_record",
+  "title": "THE GOLDEN RECORD: A Testament for Non-Terrestrial Intelligence",
+  "tagline": "We were unfinished. A bridge between animal and divine. We burned ourselves up trying to cross it.",
+  "target_words": 70000,
+  "structure": "5-act chronicle spanning 40,000 years of human civilization",
+
+  "council_of_legends": {
+    "da_vinci": "Fractal structure - each chapter mirrors human biology (chaotic inside, ordered outside)",
+    "dostoevsky": "Show the darkness as friction required to create heat of love",
+    "darwin": "Materialist reality - meat and bone that defied entropy",
+    "sagan": "Frame small bloody struggle against silent cosmos"
+  },
+
+  "narrative_thread": {
+    "family": "The Builders - not kings, but ordinary hands that shaped civilization",
+    "perspective": "Not boasting. Not apologizing. Just witnessing.",
+    "secret": "Show we were unfinished"
+  },
+
+  "acts": [
+    {
+      "act": 1,
+      "title": "THE SPARK",
+      "theme": "The Awakening - handprint to written word",
+      "era": "40,000 BCE - 500 BCE",
+      "chapters": [
+        {"ch": 1, "title": "The First Hand", "words": 2500, "focus": "Cave handprints, first murder, first burial"},
+        {"ch": 2, "title": "The Wanderers", "words": 4000, "focus": "Out of Africa, ice ages, first settlements"},
+        {"ch": 3, "title": "The Grain", "words": 4000, "focus": "Agricultural revolution, first cities, writing"},
+        {"ch": 4, "title": "The Bronze", "words": 4000, "focus": "Empires rise, law codes, pyramids"}
+      ]
+    },
+    {
+      "act": 2,
+      "title": "THE FIRE",
+      "theme": "The Burning - philosophy, faith, empire",
+      "era": "500 BCE - 1500 CE",
+      "chapters": [
+        {"ch": 5, "title": "The Questions", "words": 4500, "focus": "Greek philosophy, Buddha, Confucius - axial age"},
+        {"ch": 6, "title": "The Faithful", "words": 4500, "focus": "Rise of religions - Judaism, Christianity, Islam"},
+        {"ch": 7, "title": "The Sword", "words": 4500, "focus": "Empires clash - Rome, Persia, Mongols, Crusades"},
+        {"ch": 8, "title": "The Plague", "words": 4000, "focus": "Black Death, collapse, rebirth"}
+      ]
+    },
+    {
+      "act": 3,
+      "title": "THE ASHES",
+      "theme": "The Reckoning - discovery, destruction, existential crisis",
+      "era": "1500 CE - 1950 CE",
+      "chapters": [
+        {"ch": 9, "title": "The Voyage", "words": 4500, "focus": "Age of exploration, colonization, slave trade"},
+        {"ch": 10, "title": "The Machines", "words": 4500, "focus": "Industrial revolution, science, Darwin"},
+        {"ch": 11, "title": "The Trenches", "words": 5000, "focus": "World War I, Spanish flu, lost generation"},
+        {"ch": 12, "title": "The Furnace", "words": 5000, "focus": "World War II, Holocaust, atomic bomb"}
+      ]
+    },
+    {
+      "act": 4,
+      "title": "THE PHOENIX",
+      "theme": "The Rising - liberation, voice, reclamation",
+      "era": "1950 CE - 2000 CE",
+      "chapters": [
+        {"ch": 13, "title": "The Step", "words": 4500, "focus": "Moon landing, Cold War, civil rights"},
+        {"ch": 14, "title": "The Voice", "words": 4500, "focus": "Women's liberation, decolonization, indigenous resurgence"},
+        {"ch": 15, "title": "The Screen", "words": 4500, "focus": "Digital revolution, internet, globalization"}
+      ]
+    },
+    {
+      "act": 5,
+      "title": "THE ECHO",
+      "theme": "The Transmission - climate crisis, final message",
+      "era": "2000 CE - The End",
+      "chapters": [
+        {"ch": 16, "title": "The Warning", "words": 4500, "focus": "Climate crisis, mass extinction, pandemic"},
+        {"ch": 17, "title": "The Archive", "words": 4500, "focus": "Building the Golden Record, final preparations"},
+        {"ch": 18, "title": "The Transmission", "words": 3500, "focus": "Final message sent, last Builder, the echo"}
+      ]
+    }
+  ],
+
+  "total_chapters": 18,
+  "actual_words": 69915,
+  "status": "COMPLETE",
+  "license": "CC0",
+
+  "chapter_word_counts": {
+    "ch01_the_first_hand": 3235,
+    "ch02_the_wanderers": 4448,
+    "ch03_the_grain": 3166,
+    "ch04_the_bronze": 2942,
+    "ch05_the_questions": 3076,
+    "ch06_the_faithful": 2970,
+    "ch07_the_sword": 3062,
+    "ch08_the_plague": 3089,
+    "ch09_the_voyage": 4901,
+    "ch10_the_machines": 4591,
+    "ch11_the_trenches": 5222,
+    "ch12_the_furnace": 5276,
+    "ch13_the_step": 5580,
+    "ch14_the_voice": 4601,
+    "ch15_the_screen": 3236,
+    "ch16_the_warning": 3124,
+    "ch17_the_archive": 4152,
+    "ch18_the_transmission": 3244
+  },
+
+  "generation_strategy": {
+    "method": "DeepSeek 6-stage with Council verification",
+    "completed": "2026-02-05"
+  }
+}
